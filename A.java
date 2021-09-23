@@ -34,4 +34,12 @@ public class A {
 		System.out.println("test case 66");
 	}
 
+	private void tc20() {
+		System.out.println("test case 20");
+	}
+
+	@Test
+	private void tc21() {
+		System.out.println("test case 21");
+	}
 }
