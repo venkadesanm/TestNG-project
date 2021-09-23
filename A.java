@@ -33,13 +33,22 @@ public class A {
 	private void tc66() {
 		System.out.println("test case 66");
 	}
-
+	@Test
 	private void tc20() {
 		System.out.println("test case 20");
 	}
 
 	@Test
 	private void tc21() {
+		System.out.println("test case 21");
+	}
+	@Test
+	private void tc22() {
+		System.out.println("test case 20");
+	}
+
+	@Test
+	private void tc23() {
 		System.out.println("test case 21");
 	}
 }
