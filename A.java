@@ -24,6 +24,14 @@ public class A {
 		System.out.println("test case 14");
 	}
 
-
+	@Test
+	private void tc55() {
+		System.out.println("test case 55");
+	}
+	
+	@Test
+	private void tc66() {
+		System.out.println("test case 66");
+	}
 
 }
